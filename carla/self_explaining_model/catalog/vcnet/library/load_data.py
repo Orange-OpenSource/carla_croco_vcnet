@@ -1,3 +1,12 @@
+# Software Name : carla_croco_vcnet
+# Version: 1.0
+# SPDX-FileCopyrightText: Copyright (c) 2024 Orange
+# SPDX-License-Identifier: MIT
+#
+# This software is distributed under the MIT License,
+# the text of which is available at https://spdx.org/licenses/MIT.html
+# or see the "license.txt" file for more details.
+
 from carla.self_explaining_model.catalog.vcnet.library.utils import *
 from torch import nn
 from sklearn.preprocessing import StandardScaler,MinMaxScaler, OneHotEncoder
