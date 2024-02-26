@@ -1,0 +1,16 @@
+{   "name" : "give_me_some_credit" ,
+    "lr": 0.00064,
+    "batch_size": 33,
+    "epochs" : 178,
+    "lambda_1": 0,
+    "lambda_2": 0.67,
+    "lambda_3": 0.1,
+    "latent_size" : 21,
+    "latent_size_share" : 296, 
+    "mid_reduce_size" : 148,
+    "kld_start_epoch" : 0.27,
+    "max_lambda_1" : 0.20
+}
+
+
+

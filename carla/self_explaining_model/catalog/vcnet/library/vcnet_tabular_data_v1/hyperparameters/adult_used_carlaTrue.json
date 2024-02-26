@@ -1,0 +1,14 @@
+{   "name" : "adult" ,
+    "lr":  1.14e-5,
+    "batch_size": 91,
+    "epochs" : 176,
+    "lambda_1": 0,
+    "lambda_2": 0.93,
+    "lambda_3": 1,
+    "latent_size" : 19,
+    "latent_size_share" :  304, 
+    "mid_reduce_size" : 152,
+    "kld_start_epoch" : 0.112,
+    "max_lambda_1" : 0.034
+}
+

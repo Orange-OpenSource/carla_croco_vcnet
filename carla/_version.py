@@ -7,5 +7,4 @@
 # the text of which is available at https://spdx.org/licenses/MIT.html
 # or see the "license.txt" file for more details.
 
-
 __version__ = "0.0.5"

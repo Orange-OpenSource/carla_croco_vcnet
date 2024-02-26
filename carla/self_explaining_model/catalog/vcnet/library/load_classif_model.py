@@ -7,6 +7,7 @@
 # the text of which is available at https://spdx.org/licenses/MIT.html
 # or see the "license.txt" file for more details.
 
+
 import torch.nn as nn
 import torch 
 from carla.self_explaining_model.catalog.vcnet.library.vcnet_tabular_data_v0.join_training_network import Predictor

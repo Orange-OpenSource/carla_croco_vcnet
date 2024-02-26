@@ -196,7 +196,7 @@ If you conduct comparison with it, please cite :
 ```sh
 @inproceedings{Guyomard2022VCNetAS,
   title={{VCNet}: A self-explaining model for realistic counterfactual generation},
-  author={Victor Guyomard and Françoise Fessant and Thomas Guyet and Tassadit Bouadi and Alexandre Termier},
+  author={Victor Guyomard and Françoise Fessant and Thomas Guyet},
   booktitle={Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD)},
   pages={437--453},
   location={Grenoble, Fr},

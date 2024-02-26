@@ -7,6 +7,7 @@
 # the text of which is available at https://spdx.org/licenses/MIT.html
 # or see the "license.txt" file for more details.
 
+
 # flake8: noqa
 
 from .predict import predict_label, predict_negative_instances

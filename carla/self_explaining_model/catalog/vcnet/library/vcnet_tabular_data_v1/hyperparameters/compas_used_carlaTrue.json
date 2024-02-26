@@ -1,0 +1,14 @@
+{   "name" : "compas" ,
+    "lr": 2.47e-5,
+    "batch_size": 54,
+    "epochs" : 99,
+    "lambda_1": 0,
+    "lambda_2": 0.86,
+    "lambda_3": 1,
+    "latent_size" : 4,
+    "latent_size_share" : 356, 
+    "mid_reduce_size" : 178,
+    "kld_start_epoch" : 0.369,
+    "max_lambda_1" : 0.12
+}
+

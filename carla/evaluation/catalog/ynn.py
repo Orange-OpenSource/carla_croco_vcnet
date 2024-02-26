@@ -7,6 +7,7 @@
 # the text of which is available at https://spdx.org/licenses/MIT.html
 # or see the "license.txt" file for more details.
 
+
 import numpy as np
 import pandas as pd
 from sklearn.neighbors import NearestNeighbors
